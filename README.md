@@ -1,2 +1,1 @@
 # hugo-szms
-# hugo-szms
